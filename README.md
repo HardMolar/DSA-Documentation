@@ -25,4 +25,3 @@ This Data Analysis project is aimed into
 select A, B, C
 where A > 35
 ```
-
