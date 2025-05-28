@@ -24,5 +24,5 @@ This Data Analysis project is aimed into
 ``` SQL
 select A, B, C
 where A > 35
-
+```
 
