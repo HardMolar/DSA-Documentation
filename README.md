@@ -19,5 +19,10 @@ This Data Analysis project is aimed into
 - SQL Server (For Quering and Analysis)
 - Power BI (For creating a report)
 - MS Power Point (For Presentation)
+### Data Analysis
+
+``` SQL
+select A, B, C
+where A > 35
 
 
