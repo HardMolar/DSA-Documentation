@@ -27,7 +27,7 @@ where A > 35
 ```
 
 
-<img width="986" height="559" alt="ccc" src="https://github.com/user-attachments/assets/a7d4b60a-f76f-43e8-a70e-511a81c1f59e" />
+<imgwidth="986"height="559"alt="ccc"src="https://github.com/user-attachments/assets/a7d4b60a-f76f-43e8-a70e-511a81c1f59e"/>
 
 
 
